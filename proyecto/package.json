@@ -1,0 +1,27 @@
+{
+  "name": "nodefundamentals",
+  "version": "1.0.0",
+  "description": "Primer Proyecto Con Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sosaeliass98/NodeFundamentals.git"
+  },
+  "author": "Elías Sosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sosaeliass98/NodeFundamentals/issues"
+  },
+  "homepage": "https://github.com/sosaeliass98/NodeFundamentals#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
